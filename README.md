@@ -51,3 +51,13 @@ que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o
 
 ![image](https://github.com/user-attachments/assets/8aa85b59-ad54-46d4-bcbe-ea0275c5ae5c)
 
+
+**10- Alterando o "Final Value" para 60° e depois para 90° :**
+
+![Imagem do WhatsApp de 2025-05-12 à(s) 18 37 28_849f7058](https://github.com/user-attachments/assets/3adb4155-05d7-42e0-b2f1-64e39c18bd13)
+
+![Imagem do WhatsApp de 2025-05-12 à(s) 18 36 27_9d6a71b1](https://github.com/user-attachments/assets/5c2856e4-4c70-4c0c-a847-8af1644225d2)
+
+![Imagem do WhatsApp de 2025-05-12 à(s) 18 37 42_8e57fe5e](https://github.com/user-attachments/assets/7b2a719e-7ca4-4159-9a84-98f896a2ec5e)
+
+
