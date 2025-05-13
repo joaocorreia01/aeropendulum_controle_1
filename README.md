@@ -61,3 +61,13 @@ que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o
 ![Imagem do WhatsApp de 2025-05-12 à(s) 18 37 42_8e57fe5e](https://github.com/user-attachments/assets/7b2a719e-7ca4-4159-9a84-98f896a2ec5e)
 
 
+**11- Visualizando o gráfico da planta pelo Matlab:**
+- Você poderá baixar os arquivos "entrada_30_graus.mat", "entrada_60_graus.mat" ou "entrada_85_graus.mat"
+no Matlab para poder visualizar com melhor detalhamento os gráficos gerados.
+
+- Segue um print do que você irá encontrar nesse arquivo .mat:
+
+Print gerado com a entrada sendo 30°:
+![image](https://github.com/user-attachments/assets/7c449be9-8edc-4e11-a5ca-9154a526f229)
+
+
