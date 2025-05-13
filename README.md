@@ -46,7 +46,7 @@ pois com isso, fará com que o ESC inicie corretamente**
 
 
 
-**9- Ao iniciar, você ouvirar 2bips seguidos do ESC e ele deixará de bipar a cada segundo, o que significa que ele recebeu um sinal mínimo, 
+**9- Ao iniciar, você ouvirar 3 bips seguidos do ESC e ele deixará de bipar a cada segundo, o que significa que ele recebeu um sinal mínimo, 
 que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o STEP para o ângulo desejado**
 
 ![image](https://github.com/user-attachments/assets/8aa85b59-ad54-46d4-bcbe-ea0275c5ae5c)
