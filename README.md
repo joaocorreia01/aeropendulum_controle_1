@@ -3,7 +3,7 @@ Repositório criado para armazenar os arquivos de execução do projeto realizad
 
 ## Como usar:
 
-**0- Por medida de segurança, afaste qualquer obejeto ou pessoa, por pelo menos 40cm da Base**
+**0- Por medida de segurança, mantenha uma distância mínima de 40 cm entre a base e quaisquer objetos ou pessoas.**
 
 **1-Abra o Matlab em seu computador, e conecte o cabo USB-B ao arduino**
 - Preferenciamente execute como Administrador (caso use sistema operacional Windows)
