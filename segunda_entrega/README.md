@@ -58,6 +58,7 @@ pois com isso, fará com que o ESC inicie corretamente**
 que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o STEP na opção "Final Value" para o ângulo desejado**
 
 
+
 **10- Alterando o "Final Value" para 60° e depois para 90° :**
 60°:
 ![Imagem do WhatsApp de 2025-05-18 à(s) 19 46 54_770d1f84](https://github.com/user-attachments/assets/6eee18c4-b75f-4e20-ae07-b9181b243d67)
@@ -75,6 +76,7 @@ no Matlab para poder visualizar com melhor detalhamento os gráficos gerados.
 
 Print gerado com a entrada sendo 30°:
 ![image](https://github.com/user-attachments/assets/7c449be9-8edc-4e11-a5ca-9154a526f229)
+
 
 
 **12- Parando o sistema no Simulink:
