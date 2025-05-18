@@ -55,19 +55,15 @@ pois com isso, fará com que o ESC inicie corretamente**
 
 
 **9- Ao iniciar, você ouvirar 3 bips seguidos do ESC e ele deixará de bipar a cada segundo, o que significa que ele recebeu um sinal mínimo, 
-que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o STEP para o ângulo desejado**
-
-![image](https://github.com/user-attachments/assets/8aa85b59-ad54-46d4-bcbe-ea0275c5ae5c)
-
+que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o STEP na opção "Final Value" para o ângulo desejado**
 
 
 **10- Alterando o "Final Value" para 60° e depois para 90° :**
+60°:
+![Imagem do WhatsApp de 2025-05-18 à(s) 19 46 54_770d1f84](https://github.com/user-attachments/assets/6eee18c4-b75f-4e20-ae07-b9181b243d67)
 
-![Imagem do WhatsApp de 2025-05-12 à(s) 18 37 28_849f7058](https://github.com/user-attachments/assets/3adb4155-05d7-42e0-b2f1-64e39c18bd13)
-
-![Imagem do WhatsApp de 2025-05-12 à(s) 18 36 27_9d6a71b1](https://github.com/user-attachments/assets/5c2856e4-4c70-4c0c-a847-8af1644225d2)
-
-![Imagem do WhatsApp de 2025-05-12 à(s) 18 37 42_8e57fe5e](https://github.com/user-attachments/assets/7b2a719e-7ca4-4159-9a84-98f896a2ec5e)
+90°:
+![Imagem do WhatsApp de 2025-05-18 à(s) 19 47 52_eb5607a5](https://github.com/user-attachments/assets/36993d97-8f25-4591-ba66-21253585accf)
 
 
 
@@ -79,6 +75,15 @@ no Matlab para poder visualizar com melhor detalhamento os gráficos gerados.
 
 Print gerado com a entrada sendo 30°:
 ![image](https://github.com/user-attachments/assets/7c449be9-8edc-4e11-a5ca-9154a526f229)
+
+
+**12- Parando o sistema no Simulink:
+- Aconselho primeiramente clicar no bloco Step --> "Final Value" = 0 --> "Aplicar"
+
+- Logo após pode clicar em parar:
+
+![Imagem do WhatsApp de 2025-05-18 à(s) 19 44 29_bbe99972](https://github.com/user-attachments/assets/c22997e9-3dd2-4d70-a170-458a68f468c6)
+
 
 
 
