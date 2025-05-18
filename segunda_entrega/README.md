@@ -59,7 +59,8 @@ que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o
 
 
 
-**10- Alterando o "Final Value" para 60° e depois para 90° :**
+**10- Alterando o "Final Value" para 60° e depois para 90°**
+
 60°:
 ![Imagem do WhatsApp de 2025-05-18 à(s) 19 46 54_770d1f84](https://github.com/user-attachments/assets/6eee18c4-b75f-4e20-ae07-b9181b243d67)
 
