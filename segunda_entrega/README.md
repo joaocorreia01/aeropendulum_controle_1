@@ -70,8 +70,6 @@ que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o
 
 
 
-![image](https://github.com/user-attachments/assets/d88c43a1-fff7-4f79-8e1b-72c339a4cf36)
-
 
 **10- Alterando o "Final Value" para 60° e depois para 90°**
 
