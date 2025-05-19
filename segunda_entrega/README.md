@@ -87,8 +87,10 @@ no Matlab para poder visualizar com melhor detalhamento os gráficos gerados.
 
 - Segue um print do que você irá encontrar nesse arquivo .mat:
 
-Print gerado com a entrada sendo 30°:
-![image](https://github.com/user-attachments/assets/7c449be9-8edc-4e11-a5ca-9154a526f229)
+Print gerado com a entrada sendo 30° e voltando a 0° no intervalo de 35s:
+
+![image](https://github.com/user-attachments/assets/edc59c79-7424-484f-87da-a0b351e1874b)
+
 
 
 
