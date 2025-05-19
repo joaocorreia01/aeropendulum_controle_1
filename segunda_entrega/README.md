@@ -23,13 +23,13 @@ Repositório criado para armazenar os arquivos de execução do projeto realizad
 
 **4- Você verá o seguinde modelo com os blocos no Simulink:**
 
-![image](https://github.com/user-attachments/assets/8c6bf543-e294-42c6-949a-c43e5c3322cf)
+![image](https://github.com/user-attachments/assets/9d1ee070-7154-4a24-90e3-a85dd35aa998)
 
 
 
 **5- Verifique se você tem o pacote de conexão com o Arduino Uno (seta vermelha):**
 
-![image](https://github.com/user-attachments/assets/e6ad0678-ef42-4f64-8afc-052a301acf3b)
+![image](https://github.com/user-attachments/assets/d68937c7-dcdb-48f2-a5a5-29529534cd2d)
 
 - Caso contrário voce terá que adquirir o pacote para Arduino clicando na seta em Azul.
   
@@ -38,25 +38,38 @@ Repositório criado para armazenar os arquivos de execução do projeto realizad
 **6- Antes de rodar, é importante verificar no bloco "Ângulo de entrada" se o "Final Value" está setado inicialmente em 0,
 pois com isso, fará com que o ESC inicie corretamente**
 
-![image](https://github.com/user-attachments/assets/8f60f796-186c-4397-92e6-1779fb6e878d)
+![image](https://github.com/user-attachments/assets/e9b08f13-77ab-4235-9ea7-16ccb1130f73)
+
 
 
 
 **7- Feito esses passos anteriores, basta clicar em "Monitor & Tune" e esperar o tempo de compilação e envio do código para o Arduino:**
 
-![image](https://github.com/user-attachments/assets/1fc3ee82-4c7a-4603-9b12-073c740174a4)
+![image](https://github.com/user-attachments/assets/f4f90aed-b70d-43ac-bc7f-93605aa530cb)
+
 
 
 
 **8- É EXTREMAMENTE importante esperar a mensagem "Connecting to Arduino Uno..." para então conectar a tomada da fonte chaveada 12V à tomada da rede.**
 
-![image](https://github.com/user-attachments/assets/14cd017f-dab0-4eda-9325-a093bc9d0642)
+![image](https://github.com/user-attachments/assets/a88fd9a8-fd4e-458f-a292-4ce75ca38916)
+
+
+![image](https://github.com/user-attachments/assets/2b765c1b-cdfa-4218-9461-27a0f5419165)
+
 
 
 
 **9- Ao iniciar, você ouvirar 3 bips seguidos do ESC e ele deixará de bipar a cada segundo, o que significa que ele recebeu um sinal mínimo, 
-que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o STEP na opção "Final Value" para o ângulo desejado**
+que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o STEP (angulo de entrada) na opção "Final Value" para o ângulo desejado**
 
+![image](https://github.com/user-attachments/assets/99cf7b9c-6c89-4621-a52d-c34651f132cd)
+
+
+![image](https://github.com/user-attachments/assets/faea95fa-55e3-491d-a155-7b2fb5c7e795)
+
+
+![image](https://github.com/user-attachments/assets/d88c43a1-fff7-4f79-8e1b-72c339a4cf36)
 
 
 **10- Alterando o "Final Value" para 60° e depois para 90°**
@@ -85,7 +98,7 @@ Print gerado com a entrada sendo 30°:
 
 - Logo após pode clicar em parar:
 
-![Imagem do WhatsApp de 2025-05-18 à(s) 19 44 29_bbe99972](https://github.com/user-attachments/assets/c22997e9-3dd2-4d70-a170-458a68f468c6)
+![image](https://github.com/user-attachments/assets/4b21c55d-d7a9-4bc8-a110-54098437b4e2)
 
 
 
