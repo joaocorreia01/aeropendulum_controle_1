@@ -66,7 +66,8 @@ que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o
 ![image](https://github.com/user-attachments/assets/99cf7b9c-6c89-4621-a52d-c34651f132cd)
 
 
-![image](https://github.com/user-attachments/assets/faea95fa-55e3-491d-a155-7b2fb5c7e795)
+![image](https://github.com/user-attachments/assets/fa3f6b34-ef4a-4aec-ab66-9bb879e31fdb)
+
 
 
 ![image](https://github.com/user-attachments/assets/d88c43a1-fff7-4f79-8e1b-72c339a4cf36)
@@ -98,7 +99,8 @@ Print gerado com a entrada sendo 30°:
 
 - Logo após pode clicar em parar:
 
-![image](https://github.com/user-attachments/assets/4b21c55d-d7a9-4bc8-a110-54098437b4e2)
+![image](https://github.com/user-attachments/assets/19f9164f-e501-463d-a8fb-0d9f9e954da8)
+
 
 
 
