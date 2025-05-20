@@ -1,5 +1,9 @@
 # aeropendulum_controle_1
-Repositório criado para armazenar os arquivos de execução do projeto realizados no Simulink
+Repositório criado para armazenar os arquivos de execução do projeto realizados no Simulink.
+
+# Link do Vídeo de Simulação do sistema em tempo real:
+
+https://drive.google.com/file/d/115QuqW_GPYlJrqTUiPOuQeMOshX0PMsi/view?usp=drive_link
 
 ## Como usar:
 
@@ -94,7 +98,7 @@ Print gerado com a entrada sendo 30° e voltando a 0° no intervalo de 35s:
 
 
 
-**12- Parando o sistema no Simulink:
+**12- Parando o sistema no Simulink:**
 - Aconselho primeiramente clicar no bloco Step --> "Final Value" = 0 --> "Aplicar"
 
 - Logo após pode clicar em parar:
