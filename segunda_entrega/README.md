@@ -86,15 +86,15 @@ que no nosso caso foi 0°, e com isso ele estará pronto para que você altere o
 
 
 **11- Visualizando o gráfico da planta pelo Matlab:**
-- Você poderá baixar os arquivos "entrada_30_graus.mat", "entrada_60_graus.mat" ou "entrada_85_graus.mat"
-no Matlab para poder visualizar com melhor detalhamento os gráficos gerados.
+você pode visualizar algumas imagens do funcionamento do sistema nos arquivos .png
 
-- Segue um print do que você irá encontrar nesse arquivo .mat:
+Resposta_sistema_0_a_60graus.jpg
+
+Resposta_sistema_60_a_0graus.jpg
 
 Print gerado com a entrada sendo 30° e voltando a 0° no intervalo de 35s:
 
 ![image](https://github.com/user-attachments/assets/edc59c79-7424-484f-87da-a0b351e1874b)
-
 
 
 
